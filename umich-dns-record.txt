@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.10.6 <<>> umich.edu
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21818
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;umich.edu.			IN	A
+
+;; ANSWER SECTION:
+umich.edu.		1508	IN	A	172.66.0.37
+umich.edu.		1508	IN	A	162.159.140.37
+
+;; Query time: 18 msec
+;; SERVER: 2001:558:feed::1#53(2001:558:feed::1)
+;; WHEN: Sun Oct 06 23:08:22 EDT 2024
+;; MSG SIZE  rcvd: 70
+
