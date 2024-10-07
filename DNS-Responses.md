@@ -3,7 +3,7 @@ layout: page
 title: "DNS Responses"
 permalink: /DNS/
 ---
-#DNS Questions and My Responses
+# DNS Questions and My Responses
 
 1. I used the command **dig umich.edu** and it output this response: ![DiG 9.10.6 response for umich.edu](/img/Question_1.png)
 2. I used the command **dig umich.edu > umich-dns-record.txt**. The piped file can be found in the repository for this website!
