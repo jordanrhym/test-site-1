@@ -22,8 +22,8 @@ title: Jordan's Homepage
 email: jrhym@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my test-site for SI676 Lab 3. :) I find Jekyll scary, but boy oh boy, I want to learn to love it
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test-site-1/" # the subpath of your site, e.g. /blog
+url: "https://jordanrhym.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: she's not necessary
 github_username:  jordanrhym
 
