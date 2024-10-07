@@ -28,7 +28,7 @@ twitter_username: she's not necessary
 github_username:  jordanrhym
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
